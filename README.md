@@ -5,6 +5,7 @@
 * iMac 27" 2017
 * THUNDEROBOT GameBook 16.6"
 * KTC 34" 2160p 165Hz
+* NB H100
 * iPad Pro 11" 2021
 * Apple Pencil 2
 * AirPods 2
